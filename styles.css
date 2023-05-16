@@ -1,0 +1,20 @@
+/* styles.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.blog {
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+
+.blog h2 {
+  margin-top: 0;
+}
+
+.blog p {
+  margin-bottom: 10px;
+}
